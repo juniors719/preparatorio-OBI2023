@@ -1,5 +1,7 @@
 #include <iostream>
 
+// usando funções recursivas
+
 using namespace std;
 
 long int fatorial(int n){
